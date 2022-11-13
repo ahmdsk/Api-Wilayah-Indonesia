@@ -25,6 +25,7 @@ Setelah Itu, Lakukan Perintah Berikut.
 
 ```sh
 git clone https://github.com/ahmdsk/Api-Wilayah-Indonesia
+import wilayah_indo.sql > XAMPP | LAMPP | Lainnya
 cd Api-Wilayah-Indonesia
 composer install
 php -S localhost:8000 -t public/
